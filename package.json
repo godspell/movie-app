@@ -1,6 +1,6 @@
 {
   "name": "movie_app",
-  "homepage": "https://godspell.github.io",
+  "homepage": "//godspell.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
